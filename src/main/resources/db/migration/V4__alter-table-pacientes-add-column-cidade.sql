@@ -1,1 +1,1 @@
-ALTER TABLE pacientes ADD cidade VARCHAR(100)  NOT NULL;
+ALTER TABLE pacientes ADD cidade VARCHAR(100) NOT NULL;
